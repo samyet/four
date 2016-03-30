@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/2/28 星期日 16:24:12。
+     1>项目“C:\Users\Administrator\Desktop\四则运算器。\四则运算器。\四则运算器。.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\四则运算器。.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "四则运算器.cpp"
+         四则运算器.cpp
+     1>c:\users\administrator\desktop\四则运算器。\四则运算器。\四则运算器.cpp(9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\administrator\desktop\四则运算器。\四则运算器。\四则运算器.cpp(140): fatal error C1075: 与左侧的 大括号“{”(位于“c:\users\administrator\desktop\四则运算器。\四则运算器。\四则运算器.cpp(83)”)匹配之前遇到文件结束
+     1>已完成生成项目“C:\Users\Administrator\Desktop\四则运算器。\四则运算器。\四则运算器。.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.89
